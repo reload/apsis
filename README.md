@@ -1,0 +1,1 @@
+This module integrates the Apsis API into Drupal so you can give users the ability to subscribe and unsubscribe for your Apsis manage lists through a block on your Drupal site. You must have an account with Apsis
