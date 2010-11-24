@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Implements hook_install()
+ */
+function apsis_install() {}
+
+/**
+ * Implements hook_uninstall()
+ */
+function apsis_uninstall() {}

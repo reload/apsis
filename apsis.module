@@ -1,0 +1,18 @@
+<?php
+
+/**
+ * Implements hook_perm()
+ */
+function apsis_perm() {}
+
+/**
+ * Implements hook_menu()
+ */
+function apsis_menu() {}
+
+/**
+ * Implements hook_block
+ */
+function apsis_block($op = 'list', $delta = 0, $edit = array()) {}
+
+

@@ -1,0 +1,6 @@
+name = Apsis API integration
+description = Integrates the Apsis API into Drupal so you can give users the ability to subscribe and unsubscribe lists through a block on your Drupal site.
+core = 6.x
+php = 5.x
+package = Apsis
+
